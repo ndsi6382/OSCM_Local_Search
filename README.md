@@ -1,6 +1,6 @@
 # Local Search Methods for the One-Sided Cross Minimisation Problem
 
-This repository contains the code for an article called *Local Search Methods for the One-Sided Cross Minimisation Problem*. All code has been implemented within Jupyter Notebooks with SageMath 9.5 kernels and Python 3.10. An introduction to the problem is provided in `OSCM_Introduction.ipynb` and the algorithms presented are provided in `OSCM_Local_Search.ipynb`. Each notebook is self-contained. The article is available [HERE]().
+This repository contains the code for an article called *Local Search Methods for the One-Sided Cross Minimisation Problem*. All code has been implemented within Jupyter Notebooks with SageMath 9.5 kernels and Python 3.10. An introduction to the problem is provided in `OSCM_Introduction.ipynb` and the algorithms presented are provided in `OSCM_Local_Search.ipynb`. Each notebook is self-contained. The article is available [HERE](https://drive.proton.me/urls/ZZ4GWWQJXM#5890rmTgPpJT).
 
 References:
 
